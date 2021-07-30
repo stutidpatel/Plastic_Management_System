@@ -1,0 +1,72 @@
+Name: Rahima Rao
+Street: lotus A 204
+City: Ahmedabad
+Area: North
+Pincode: 379821
+Transparent: 90.0
+Transclusent: 0.0
+Black: 0.0
+_____________________________________________________
+Name: Taha Firoz
+Street: A-404 Park Avenue 
+City: Ahmedabad
+Area: West
+Pincode: 390334
+Transparent: 150.0
+Transclusent: 150.0
+Black: 50.0
+_____________________________________________________
+Name: Stuti
+Street: C-404 Ambika
+City: Rajkot
+Area: West
+Pincode: 360005
+Transparent: 129.0
+Transclusent: 0.0
+Black: 160.0
+_____________________________________________________
+Name: Anil
+Street: N-102, Radhe Society
+City: Surat
+Area: North
+Pincode: 233312
+Transparent: 440.0
+Transclusent: 50.0
+Black: 150.0
+_____________________________________________________
+Name: Kanisha Shah
+Street: N-403 Plaza Avenue
+City: Ahmedabad
+Area: West
+Pincode: 234123
+Transparent: 90.0
+Transclusent: 800.0
+Black: 0.0
+_____________________________________________________
+Name: Taha Firoz
+Street: A-404 Park Avenue 
+City: Ahmedabad
+Area: West
+Pincode: 390334
+Transparent: 150.0
+Transclusent: 150.0
+Black: 50.0
+_____________________________________________________
+Name: Stuti
+Street: C-404 Ambika
+City: Rajkot
+Area: West
+Pincode: 360005
+Transparent: 129.0
+Transclusent: 0.0
+Black: 160.0
+_____________________________________________________
+Name: Fayez Ali
+Street: 
+City: Surat
+Area: East
+Pincode: 360001
+Transparent: 35.0
+Transclusent: 90.0
+Black: 45.0
+_____________________________________________________
